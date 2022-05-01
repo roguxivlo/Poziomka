@@ -10,3 +10,6 @@ Gracze wykonują ruchy na przemian, zaczynając od Lewego. Lewy może przekazać
 Ruch gracza polega na umieszczeniu na planszy bloku zajmującego spójny zestaw wolnych pól. Blok ma ustalony z góry rozmiar.
 
 Gracz, który nie może wykonać ruchu, gdy jest jego kolej, lub uzna, że nie chce kontynuować rozgrywki, poddaje się. Przeciwnik gracza, który się poddał, wygrywa nawet, jeżeli sam nie może już wykonać ruchu.
+
+## Zasady gry Domineering
+Domineering to szczególny przypadek Poziomki. Gra opisana jest na [tej stronie](https://en.wikipedia.org/wiki/Domineering)
