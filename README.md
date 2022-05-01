@@ -1,5 +1,6 @@
 # Poziomka
-Symulacja uogólnionej gry Domineering
+Symulacja uogólnionej gry Domineering powstała jako projekt na Wstępie do Programowania
+na wydziale MIM UW w semestrze 2021Z.
 Program służy do przeprowadzenie rozgrywki z komputerem.
 Zasady gry:
 
